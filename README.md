@@ -29,3 +29,8 @@ This package proves endpoint sharpness only for `D={3,4,7}`, `k=1`. It does not 
 ## How to review
 
 Run the verifier first, then read the endpoint report and inspect the witness/nonrepresentable lists.
+
+
+## Curated collection
+
+This endpoint record is indexed in [MathWise Deterministic Replay Certificates](https://github.com/Grounded-DI/MathWise-Deterministic-Replay-Certificates/tree/main/d347-k1-exact-conductor-endpoint). This repository remains the canonical source.
